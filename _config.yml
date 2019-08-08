@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ben Hamilton"
   avatar           : "pp.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Being a data scientist, I obviously believe in the inferential/predictive power of data. However, I have also come to learn that you should not discount the insight to be gained through human intuition. I have a keen interest in public policy (among other things), and this is certainly a field that can benefit from well-informed priors/estimates in addition to extensive data collection/analysis. My computer is faster than me, but it certainly isn't more intelligent."
+  location         : "La Porte, Indiana, 46350"
   employer         :
-  email            :
+  email            : "ben.hamilton.888@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   vine             :
   weibo            :
